@@ -1,0 +1,46 @@
+a:link,:visited {
+    text-decoration: none;
+    color:black;
+}
+a:hover {
+    color:blueviolet;
+}
+a:active {
+    color:red;
+}
+nav {
+    font-family: helvetica;
+    margin-top: 35px;
+}
+h1 {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+figcaption {
+    font-family: helvetica;
+}
+div {
+    font-family: helvetica;
+}
+table, td, th {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding:10px;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #ddd;
+}
+body {
+    padding: 20px;
+    width: 800px;
+    margin: auto;
+}
+footer {
+    margin-top: 30px;
+}
+img {
+    width: 100%;
+}
+figure {
+    margin-bottom: 35px;
+}

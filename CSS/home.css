@@ -1,0 +1,56 @@
+a:link.web {
+    text-decoration: none;
+    color: #000;
+}
+a:visited.web {
+    color: #000;
+}
+a:hover.web {
+    color: blueviolet;
+}
+a:active.web {
+    color: red;
+}
+a:link {
+    text-decoration: none;
+    color: #000;
+}
+a:visited {
+    color:black;
+}
+a:hover {
+    color: blueviolet;
+}
+a:active {
+    color: red;
+}
+nav {
+    font-family: helvetica;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+h2 {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+h3 {
+    font-family: 'Rubik Moonrocks', cursive;
+}
+p {
+    font-family: 'Inter', sans-serif;
+}
+details {
+    font-family: 'Inter', sans-serif;
+}
+footer {
+    margin-top: 50px;
+}
+figure {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}

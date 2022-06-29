@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+}
+table, th, td {
+    font-family: Helvetica;
+    border: 1px solid #000;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 50%;
+    position: relative;
+    table-layout: fixed;
+}
+body {
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+table {
+    float: left;
+    width: 70%;
+    margin-left: 10px;
+    padding: 20px;
+}
+a:link {
+    text-decoration: none;
+    color: #000;
+}
+a:visited {
+    color: #000;
+}
+a:hover {
+    color:blueviolet;
+}
+a:active {
+    color:red;
+}
+nav {
+    font-family: helvetica;
+    margin-top: 50px;
+}
+img {
+    float: left;
+    width: 150px;
+    margin-left: 30px;
+    padding: 20px;
+}
+section::after {
+    content: "";
+    display: table;
+    clear:both;
+}
+p {
+    font-family: helvetica;
+}
+footer {
+    margin-top: 250px;
+}
